@@ -3,7 +3,6 @@
  * License: https://github.com/bkaradzic/bgfx/blob/master/LICENSE
  */
 
-
 #include <bx/platform.h>
 
 #include "bgfx_p.h"
